@@ -1,6 +1,6 @@
-- 👋 Hi, my name is Felipe Albertazzi, and I´m a full Stack Java Script developer from Argentina.
+ # 👋 Hi, my name is Felipe Albertazzi, and I´m a **Full Stack Java Script developer** from Argentina.
 
-The main languages I know are:
+## The main languages I know are:
 - HTML5
 - CSS3
 - JavaScript 
@@ -12,7 +12,7 @@ The main languages I know are:
 - GitHub
 But im always open to learn more!
 
-You can contact me through my Linkedin :
-https://www.linkedin.com/in/felipe-agustin-albertazzi-3249671a2/
+[You can contact me through my Linkedin](https://www.linkedin.com/in/felipe-agustin-albertazzi-3249671a2/)
+
 
 
