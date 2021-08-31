@@ -12,7 +12,9 @@
 - GitHub
 But im always open to learn more!
 
+## Contact Info
 [You can contact me through my Linkedin](https://www.linkedin.com/in/felipe-agustin-albertazzi-3249671a2/)
+or email me at felialbertazzi@gmail.com
 
 
 
